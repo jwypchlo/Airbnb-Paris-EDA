@@ -58,11 +58,3 @@ Airbnb Data/
 ├── README.md
 └── data/
 │ └── Listings.csv
-
----
-
-## How to run
-1. Clone the repository
-2. Place `Listings.csv` in `data`
-3. Open `notebook.ipynb`
-4. Run the notebook from top to bottom
