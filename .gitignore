@@ -6,7 +6,7 @@ pyvenv.cfg
 # --- Jupyter ---
 .ipynb_checkpoints/
 
-# --- Data files (do not upload datasets) ---
+# --- Data files ---
 data/**/*.csv
 data/**/*.zip
 data/**/*.parquet
