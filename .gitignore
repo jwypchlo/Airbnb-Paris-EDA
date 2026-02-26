@@ -1,0 +1,22 @@
+# --- Python virtual environment ---
+.venv/
+venv/
+pyvenv.cfg
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Data files (do not upload datasets) ---
+data/**/*.csv
+data/**/*.zip
+data/**/*.parquet
+data/**/*.xlsx
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+
+# --- Editor / OS ---
+.vscode/
+.DS_Store
+Thumbs.db
